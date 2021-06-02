@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/Game Assign/Assign/Assign/Content/../1.wav","E:/Game Assign/Assign/Assign/Content/bin/Windows/Content/1.xnb","SoundEffectProcessor","SoundEffectContent",14868558,14868585,1.41241
+"E:/Game Assign/Assign/Assign/Content/../2.wav","E:/Game Assign/Assign/Assign/Content/bin/Windows/Content/2.xnb","SoundEffectProcessor","SoundEffectContent",49693754,49693781,4.09129
+"E:/Game Assign/Assign/Assign/Content/File.spritefont","E:/Game Assign/Assign/Assign/Content/bin/Windows/Content/SpriteFont1.xnb","FontDescriptionProcessor","SpriteFontContent",2083,70673,0.3245501
+"E:/Game Assign/Assign/Assign/Content/Sound2.WAV","E:/Game Assign/Assign/Assign/Content/bin/Windows/Content/Sound2.xnb","SoundEffectProcessor","SoundEffectContent",24864,24925,0.1545882
+"E:/Game Assign/Assign/Assign/Content/SpriteFont2.spritefont","E:/Game Assign/Assign/Assign/Content/bin/Windows/Content/SpriteFont2.xnb","FontDescriptionProcessor","SpriteFontContent",2065,37905,1.279003

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Game Assign/Assign/Assign/Content/../1.wav</File>
+    <File>E:/Game Assign/Assign/Assign/Content/../2.wav</File>
+    <File>E:/Game Assign/Assign/Assign/Content/File.spritefont</File>
+    <File>E:/Game Assign/Assign/Assign/Content/Sound2.WAV</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>1.wav</File>
+    <File>2.wav</File>
+    <File>SpriteFont1</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
