@@ -34,11 +34,11 @@ High Score
 
 Operations
 
-![Capture3](https://github.com/Linon419/SpaceShootingGame/blob/master/screenShots/Capture2.PNG?raw=true)
+![Capture3](https://github.com/Linon419/SpaceShootingGame/blob/master/screenShots/Capture3.PNG?raw=true)
 
 Level 1
 
-![Capture4](\screenShots\Capture4.PNG)
+![Capture4](https://github.com/Linon419/SpaceShootingGame/blob/master/screenShots/Capture4.PNG?raw=true.PNG)
 
 Level2
 
