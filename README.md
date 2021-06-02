@@ -26,15 +26,15 @@ Download it and run it in VS 2019. This game rely on Monogame, before you run it
 
 Menu
 
-![](\screenShots\Capture.PNG)
+![](https://github.com/Linon419/SpaceShootingGame/blob/master/screenShots/Capture.PNG?raw=true)
 
 High Score
 
-![Capture1](\screenShots\Capture1.PNG)
+![Capture1](https://github.com/Linon419/SpaceShootingGame/blob/master/screenShots/Capture1.PNG?raw=true)
 
 Operations
 
-![Capture3](\screenShots\Capture3.PNG)
+![Capture3](https://github.com/Linon419/SpaceShootingGame/blob/master/screenShots/Capture2.PNG?raw=true)
 
 Level 1
 
@@ -42,19 +42,19 @@ Level 1
 
 Level2
 
-![Capture5](\screenShots\Capture5.PNG)
+![Capture5](https://github.com/Linon419/SpaceShootingGame/blob/master/screenShots/Capture5.PNG?raw=true)
 
 Dead Page
 
-![Capture6](\screenShots\Capture6.PNG)
+![Capture6](https://github.com/Linon419/SpaceShootingGame/blob/master/screenShots/Capture6.PNG?raw=true)
 
 Level 2
 
-![Capture7](\screenShots\Capture7.PNG)
+![Capture7](https://github.com/Linon419/SpaceShootingGame/blob/master/screenShots/Capture7.PNG?raw=true)
 
 Level 3
 
-![Capture8](\screenShots\Capture8.PNG)
+![Capture8](https://github.com/Linon419/SpaceShootingGame/blob/master/screenShots/Capture8.PNG?raw=true)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
