@@ -5,7 +5,6 @@ This is a space shooting game like 1943 using monogame.
 a feature-complete 2D Arcade Game with Monogame.
 
 - Fully featured 2d sprite game
-- Functioning Particle Systems
 - Scene management implemented - multiple level
 - Complete 2D collisions between multiple objects
 - Persistent Save data and high scores
