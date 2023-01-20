@@ -4,15 +4,6 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>E:/Game Assign/Assign/Assign/Content/../1.wav</File>
-    <File>E:/Game Assign/Assign/Assign/Content/../2.wav</File>
-    <File>E:/Game Assign/Assign/Assign/Content/File.spritefont</File>
-    <File>E:/Game Assign/Assign/Assign/Content/Sound2.WAV</File>
+    <File>C:/Users/lzlyv/source/repos/Assign/Content/Sound2.WAV</File>
   </SourceFiles>
-  <DestFiles>
-    <File>1.wav</File>
-    <File>2.wav</File>
-    <File>SpriteFont1</File>
-    <File xsi:nil="true" />
-  </DestFiles>
 </SourceFileCollection>
